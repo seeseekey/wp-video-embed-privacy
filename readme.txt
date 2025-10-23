@@ -2,8 +2,8 @@
 Contributors: michael.zangl
 Tags: youtube, germany, deutschland
 Requires at least: 4.5
-Tested up to: 4.9.4
-Stable tag: 2.0
+Tested up to: 6.6.2
+Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,4 +63,13 @@ Yes, click the ckeckbox in settings
 * Add settings
 * Internationalize
 * Prevent external requests to preview generator.
+
+= 2.1 =
+* Add vimeo, fix some styling issues.
+
+= 2.2 =
+* Fix a small bug with the previews.
+
+= 2.3 =
+* Security update - thanks to vgo0
 
